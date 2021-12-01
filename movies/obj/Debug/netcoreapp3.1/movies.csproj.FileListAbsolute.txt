@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\car\movies\bin\Debug\netcoreapp3.1\movies.exe
+C:\Users\opilane\source\repos\car\movies\bin\Debug\netcoreapp3.1\movies.deps.json
+C:\Users\opilane\source\repos\car\movies\bin\Debug\netcoreapp3.1\movies.runtimeconfig.json
+C:\Users\opilane\source\repos\car\movies\bin\Debug\netcoreapp3.1\movies.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\car\movies\bin\Debug\netcoreapp3.1\movies.dll
+C:\Users\opilane\source\repos\car\movies\bin\Debug\netcoreapp3.1\movies.pdb
+C:\Users\opilane\source\repos\car\movies\obj\Debug\netcoreapp3.1\movies.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\car\movies\obj\Debug\netcoreapp3.1\movies.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\car\movies\obj\Debug\netcoreapp3.1\movies.AssemblyInfo.cs
+C:\Users\opilane\source\repos\car\movies\obj\Debug\netcoreapp3.1\movies.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\car\movies\obj\Debug\netcoreapp3.1\movies.dll
+C:\Users\opilane\source\repos\car\movies\obj\Debug\netcoreapp3.1\movies.pdb
+C:\Users\opilane\source\repos\car\movies\obj\Debug\netcoreapp3.1\movies.genruntimeconfig.cache
